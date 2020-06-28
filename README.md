@@ -5,7 +5,7 @@
 
 *Diego Vapnik Blancas
 
-*Oscar Francisco Cortés
+*Oscar Francisco Cortés (solo nos paso links para que lo hicieramos por eso lo deje, no se si cuente)
 
 ### Lo que hemos logrado
 Se hizo el esquema de la BD 
