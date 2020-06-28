@@ -1,8 +1,11 @@
-# UNAMpregunta
+# P6VOTA
 ## ROGUE ONE
 ### Integrantes del equipo
 *Ian Méndez
+
 *Diego Vapnik Blancas
+
+*Oscar Francisco Cortés
 
 ### Lo que hemos logrado
 Se hizo el esquema de la BD 
